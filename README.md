@@ -45,6 +45,8 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 ## Apps I Worked on
 
+<img src="images/deco/Group 1.png" height="40">
+
 #### God of Wealth
 - Chinese name: 武財神 
 - The app, GodOfWealth, aims to connect users with local temples and facilitate spiritual activities. Users can seek divine guidance through fortune-telling, virtually worship deities, make prayers, and access an lunar calendar. A portion of the proceeds from the app is donated to charitable organizations. Embrace the synergy of technology and spirituality for a convenient and meaningful divine connection.
