@@ -55,7 +55,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 #### Rent Radar
 - Chinese name: 租屋雷達
 - "Rent Radar" is a rental property search engine designed specifically for tenants. It constantly scans major rental websites such as [591租屋網](https://www.591.com.tw), [樂屋網](https://www.rakuya.com.tw), and [好房網](https://www.housefun.com.tw), allowing you to find a place to rent with just one app. By setting your rental preferences as a radar, it will notify you of the latest available properties, offering a new experience of "passive house hunting."
-- 
+- Technique:
 - [View on AppStore](https://apps.apple.com/tw/app/租屋雷達-租房就是快-含fb社團-租屋網租屋/id1557423528)
 - ###### [Back to Agenda](#agenda)
 
@@ -68,25 +68,34 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 #### Pose Camera
 - Chinese name： 必拍
-- Strike the perfect pose with our app! Say goodbye to awkwardness and hello to confidence. Our collection of hilarious poses will have you capturing unforgettable moments with ease. Join our community of photography enthusiasts and let the fun begin!
-- 
+- Strike the perfect pose with our app! Say goodbye to awkwardness and hello to confidence. Our collection of perfect poses will have you capturing unforgettable moments with ease. Join our community of photography enthusiasts and let the fun begin!
+- Technique:
+- [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
 - ###### [Back to Agenda](#agenda)
-
 
 #### Widget Photo
 - Chinese name： 咻拍
+- This app features a convenient home screen widget that displays the latest photos of your friends, ensuring you stay effortlessly connected with their updates. With this widget, you can effortlessly keep track of your friends' photo updates without the need to open the app. It provides a seamless and efficient way to stay in touch with your friends' visual journey, right from your device's home screen.
+- Technique:
+- [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
 - ###### [Back to Agenda](#agenda)
 
 #### Fasting Alarm
 - Chinese name： 斷食鬧鐘
+- Introducing the Fasting Alarm Clock app for a healthy and disciplined lifestyle. Select your fasting mode, receive reminders, and track progress. Stay on track with alarms and an adorable penguin companion. Achieve your fasting goals effortlessly.
+- [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
 - ###### [Back to Agenda](#agenda)
 
 ## Side Projects
 
-
 #### Accountant Rabbit
 - Chinese name: 會計小兔
 - Accountant Rabbit, a LINE chatbot, records daily spending on Google Sheets via text input.
+- Technique:
+  - Language: JavaScript
+  - Regular expressions: Filtered spending amounts using regular expressions and recorded remaining text as notes.
+  - Platform: Google Apps Script
+  - APIs: Establish the connection between the LINE server and Google Sheets.
 - ###### [Back to Agenda](#my-side-projects)
 
 #### Oral Keeping
