@@ -5,7 +5,7 @@ Get ready to dive into a mix of mind-blowing apps that I've crafted during my pr
 
 # Agenda
 ### 6 Apps I Worked on：
-* [🙏🏼 武財神 God of Wealth](#武財神)
+* <img src="images/godofwealth_icon.png" alt="Logo" width="20" height="20">[🙏🏼 武財神 God of Wealth](#武財神)
   - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
   - Technique:
     + 
