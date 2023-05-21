@@ -5,27 +5,27 @@ Get ready to dive into a mix of mind-blowing apps that I've crafted during my pr
 
 # Agenda
 ### 6 Apps I Worked on：
-* <img src="images/godofwealth_icon.png" alt="Logo" width="30" height="30">[🙏🏼 武財神 God of Wealth](#武財神)
+* <img src="images/godofwealth_icon.png" alt="Logo" width="30" height="30">[武財神 God of Wealth](#武財神)
   - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
   - Technique:
     + 
-* [🏠 租屋雷達 Rent Radar](#租屋雷達)
+* <img src="images/rentRadar_icon.png" width="30" height="30">[租屋雷達 Rent Radar](#租屋雷達)
   - [View on AppStore](https://apps.apple.com/tw/app/租屋雷達-租房就是快-含fb社團-租屋網租屋/id1557423528)
   - Technique：
 
-* [⌨️ 搜梗鍵盤](#搜梗鍵盤)
+* <img src="images/sogan_icon.png" alt="Logo" width="30" height="30">[搜梗鍵盤](#搜梗鍵盤)
   - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
   - Technique：
   
-* [📷 必拍](#必拍)
+* <img src="images/poseCamera_icon.png" alt="Logo" width="30" height="30">[必拍](#必拍)
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
   - Technique：
   
-* [👬 咻拍](#咻拍)
+* <img src="images/showpop_icon.png" alt="Logo" width="30" height="30">[咻拍](#咻拍)
   - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
   - Technique：
   
-* [⏰ 斷食鬧鐘](#斷食鬧鐘)
+* <img src="images/fasting_icon.png" alt="Logo" width="30" height="30">[斷食鬧鐘](#斷食鬧鐘)
   - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
   - Technique：
 
