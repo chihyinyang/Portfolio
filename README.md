@@ -40,8 +40,6 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   
 * <img src="images/oralKeeping_icon.png" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️in process...>
   - Technique：
-  
-###### btw, these side project icons were designed by me 💕
 
 ## Apps I Worked on
 
@@ -127,5 +125,5 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   <a href="#my-side-projects">Back to Agenda</a>
 </div>
 
-
+###### btw, these side project icons were designed by myself 💕
 
