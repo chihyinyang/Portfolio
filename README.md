@@ -6,7 +6,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 ## Agenda
 ### Apps I Worked on：
 ###### 👇🏼Click on the name to view more detailed information.
-- <img src="images/godofwealth_icon.png" alt="Logo" width="30" height="30"> [God of Wealth](#god-of-wealth)
+- <img src="images/godofwealth_icon.png" id="god-of-wealth-icon" alt="Logo" width="30" height="30"> [God of Wealth](#god-of-wealth)
   - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
   - Technique:
     - GraphQL: for online forum
@@ -69,7 +69,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
 
 <div align="right">
-  <a href="#agenda">Back to Agenda</a>
+  <a href="#god-of-wealth-icon">Back to Agenda</a>
 </div>
 
 <img src="images/deco/rentRadar_banner.png" id="rent-radar" height="40">
