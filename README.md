@@ -78,7 +78,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Overview**: This App with a customized keyboard that transforms the way users engage with memes. This app enables seamless searching and sharing of funny meme images in any text field, instantly injecting humor into conversations. What sets it apart is the unique feature of incorporating friends' avatars into memes, fostering personalized and hilarious content that resonates with the younger audience. With this app, users can strengthen friendships through shared laughter and inside jokes.
 - **Technique**:
   - **Share Extension**: This feature enables users to save memes conveniently by utilizing the share button wherever available.  
-    _View the demo GIF below or click [here](https://drive.google.com/file/d/1HQPY0VHSgzBQb1JxvpASPzspL0GLhdlD/view?usp=sharing) to watch the video._. 
+    ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1HQPY0VHSgzBQb1JxvpASPzspL0GLhdlD/view?usp=sharing) to watch the video on google drive._
     
     <img src="images/gif/memekeyboard/shareExtension.gif" width="250"/>
   
