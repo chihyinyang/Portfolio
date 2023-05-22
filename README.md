@@ -9,7 +9,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 ###### 👇🏼Click on the name to view more detailed information below.
 
 1. <img src="images/sogan_icon.png" id="sogan-icon" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
-  - Role: Developer & Idea Provider
+  - Role: Creator & Idea Provider
   - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
   - Technique：
     - Share Extension
@@ -17,15 +17,15 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - GCContext
 
 2. <img src="images/fasting_icon.png" id="fasting-icon" alt="Logo" width="30" height="30">  [Fasting Alarm](#fasting-alarm)
-  - Role: Developer
+  - Role: Creator
   - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
   - Technique: 
     - SwiftUI(Widget, Live Activity)
     - Unit Test
 
 3. <img src="images/knowledgeKing_icon.png" id="knowledge-king-icon" width="30" height="30">  [Knowledge King](#knowledge-king)
+  - Role: Creator
   - [View on AppStore](https://apps.apple.com/cy/app/測測吧/id1641409607)
-  - Role: Developer
   - Technique: 
     - AVFoundation(Audio)
     - CAShapeLayer + CABasicAnimation
@@ -37,7 +37,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - AVFoundation(Camera)
 
 5. <img src="images/poseCamera_icon.png" id="pose-camera-icon" alt="Logo" width="30" height="30">  [Pose Camera](#pose-camera)
-  - Role: Developer
+  - Role: Creator
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
   - Technique: 
     - AVFoundation(Camera)
@@ -77,7 +77,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Chinese name**: 搜梗鍵盤
 - **Overview**: This App with a customized keyboard that transforms the way users engage with memes. This app enables seamless searching and sharing of funny meme images in any text field, instantly injecting humor into conversations. What sets it apart is the unique feature of incorporating friends' avatars into memes, fostering personalized and hilarious content that resonates with the younger audience. With this app, users can strengthen friendships through shared laughter and inside jokes.
 - **Technique**:
-  - Share Extension
+  - Share Extension: We use Share Extension to allow user can save the meme wherever is a share button. Save the meme instantly in the keyboard, and share with friends via copy and paste.  
+  <img src="images/gif/memekeyboard/shareExtension.gif" width="600"/>
+  
   - Keyboard Extension
   - GCContext
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
