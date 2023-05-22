@@ -82,6 +82,17 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 </div>
 <!-- 搜梗鍵盤 info end -->
 
+<!-- 測測吧 info start -->
+<img src="images/deco/KnowledgeKing_banner.png" id="fasting-alarm" max-height="40" max-width="484">
+
+- Chinese name： 測測吧
+- 
+- [View on AppStore](https://apps.apple.com/cy/app/測測吧/id1641409607)
+<div align="right">
+  <a href="#knowledge-king-icon">⬆️ Back to Agenda</a>
+</div>
+<!-- 測測吧 info end -->
+
 <!-- 斷食鬧鐘 info start -->
 <img src="images/deco/fasting_banner.png" id="fasting-alarm" max-height="40" max-width="484">
 
