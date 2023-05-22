@@ -77,10 +77,13 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Chinese name**: 搜梗鍵盤
 - **Overview**: This App with a customized keyboard that transforms the way users engage with memes. This app enables seamless searching and sharing of funny meme images in any text field, instantly injecting humor into conversations. What sets it apart is the unique feature of incorporating friends' avatars into memes, fostering personalized and hilarious content that resonates with the younger audience. With this app, users can strengthen friendships through shared laughter and inside jokes.
 - **Technique**:
-  - Share Extension: We use Share Extension to allow user can save the meme wherever is a share button. Save the meme instantly in the keyboard, and share with friends via copy and paste.  
-  <img src="images/gif/memekeyboard/shareExtension.gif" width="600"/>
+  - Share Extension: This feature enables users to save memes conveniently by utilizing the share button wherever available.  
+    _**View the demo video below ⬇️**_  
+    <br></br>
+    <img src="images/gif/memekeyboard/shareExtension.gif" width="250"/>
   
-  - Keyboard Extension
+  - Keyboard Extension: With this functionality, users can instantly save memes directly from the keyboard and easily share them with friends through the copy and paste method.
+  
   - GCContext
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
 <div align="right">
