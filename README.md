@@ -25,7 +25,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
   - Technique：
   
-* <img src="images/showpop_icon.png" alt="Logo" width="30" height="30">  [Widget Photo](#widget-photo)
+* <img src="images/showpop_icon.png" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
   - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
   - Technique：
   
@@ -92,7 +92,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 <img src="images/deco/widgetPhoto_banner.png" height="40">
 
-#### Widget Photo
+#### Photo Widget
 - Chinese name： 咻拍
 - This app features a convenient home screen widget that displays the latest photos of your friends, ensuring you stay effortlessly connected with their updates. With this widget, you can effortlessly keep track of your friends' photo updates without the need to open the app. It provides a seamless and efficient way to stay in touch with your friends' visual journey, right from your device's home screen.
 - Technique:
@@ -111,6 +111,8 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 ## Side Projects
 
+<img src="images/deco/accountantRabbit_banner.png" height="40">
+
 #### Accountant Rabbit
 - Chinese name: 會計小兔
 - Accountant Rabbit, a LINE chatbot, records daily spending on Google Sheets via text input.
@@ -122,6 +124,8 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#my-side-projects">Back to Agenda</a>
 </div>
+
+<img src="images/deco/oralKeeping_banner.png" height="40">
 
 #### Oral Keeping
 - Chinese name: 口說記帳
