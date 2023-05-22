@@ -6,7 +6,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <!-- Agenda Start -->
 ## Agenda （ 6 apps + 2 side projects ）
 ### 👩🏻‍💻 Apps I Worked on：
-###### 👇🏼Click on the name to view more detailed information.
+###### 👇🏼Click on the name to view more detailed information below.
 
 1. <img src="images/sogan_icon.png" id="sogan-icon" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
   - Role: Developer & Idea Provider
@@ -78,7 +78,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - Technique:
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
 <div align="right">
-  <a href="#sogan-icon">Back to Agenda</a>
+  <a href="#sogan-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 搜梗鍵盤 info end -->
 
@@ -89,7 +89,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - Introducing the Fasting Alarm Clock app for a healthy and disciplined lifestyle. Select your fasting mode, receive reminders, and track progress. Stay on track with alarms and an adorable penguin companion. Achieve your fasting goals effortlessly.
 - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
 <div align="right">
-  <a href="#fasting-icon">Back to Agenda</a>
+  <a href="#fasting-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 斷食鬧鐘 info end -->
 
@@ -101,7 +101,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - Technique:
 - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
 <div align="right">
-  <a href="#showpop-icon">Back to Agenda</a>
+  <a href="#showpop-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 咻拍 info end -->
 
@@ -113,7 +113,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - Technique:
 - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
 <div align="right">
-  <a href="#pose-camera-icon">Back to Agenda</a>
+  <a href="#pose-camera-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 必拍 info end -->
   
@@ -125,7 +125,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - Techniques:
 - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
 <div align="right">
-  <a href="#god-of-wealth-icon">Back to Agenda</a>
+  <a href="#god-of-wealth-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 武財神 info end -->
 
@@ -151,7 +151,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   - Platform: Google Apps Script
   - APIs: Establish the connection between the LINE server and Google Sheets.
 <div align="right">
-  <a href="#accountant-rabbit-icon">Back to Agenda</a>
+  <a href="#accountant-rabbit-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 會計小兔 info end -->
 
@@ -160,7 +160,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 - Chinese name: 口說記帳
 <div align="right">
-  <a href="#oral-keeping-icon">Back to Agenda</a>
+  <a href="#oral-keeping-icon">⬆️ Back to Agenda</a>
 </div>
 <!-- 口說記帳 info end -->
 
