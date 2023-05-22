@@ -90,7 +90,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   <a href="#agenda">Back to Agenda</a>
 </div>
 
-<img src="images/deco/widgetPhoto_banner.png" height="40">
+<img src="images/deco/photoWidget_banner.png" height="40">
 
 #### Photo Widget
 - Chinese name： 咻拍
@@ -100,6 +100,8 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#agenda">Back to Agenda</a>
 </div>
+
+<img src="images/deco/fasting_banner.png" height="40">
 
 #### Fasting Alarm
 - Chinese name： 斷食鬧鐘
@@ -111,9 +113,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 ## Side Projects
 
-<img src="images/deco/accountantRabbit_banner.png" height="40">
+<img src="images/deco/accountantRabbit_banner.png" id="accountant-rabbit" height="40">
 
-#### Accountant Rabbit
+// #### Accountant Rabbit
 - Chinese name: 會計小兔
 - Accountant Rabbit, a LINE chatbot, records daily spending on Google Sheets via text input.
 - Technique:
