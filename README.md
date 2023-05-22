@@ -3,8 +3,9 @@
 Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my professional adventures**_ and some super intriguing _**side projects**_. So sit back, relax, and soak in all the awesomeness that's coming your way! Enjoy!
 ###### 🫶🏻 Just a friendly reminder, all text in blue is linked!
 
+<!-- Agenda Start -->
 ## Agenda （ 6 apps + 2 side projects ）
-### Apps I Worked on：
+### 👩🏻‍💻 Apps I Worked on：
 ###### 👇🏼Click on the name to view more detailed information.
 
 1. <img src="images/sogan_icon.png" id="sogan-icon" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
@@ -28,13 +29,12 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - Audio
     - 地圖路線
 
-4. <img src="images/godofwealth_icon.png" id="god-of-wealth-icon" alt="Logo" width="30" height="30"> [God of Wealth](#god-of-wealth)
-  - Role: Maintainer
-    - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
-    - Technique:
-    - GraphQL
-    - Skeleton
-  
+4. <img src="images/showpop_icon.png" id="showpop-icon" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
+  - Role: Contributor
+  - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
+  - Technique: 
+    - AVFoundation: Camera
+
 5. <img src="images/poseCamera_icon.png" id="pose-camera-icon" alt="Logo" width="30" height="30">  [Pose Camera](#pose-camera)
   - Role: Developer
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
@@ -42,14 +42,17 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - AVFoundation: 
     - UIGesture:
     - CIFilter: 
-  
-6. <img src="images/showpop_icon.png" id="showpop-icon" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
-  - Role: Contributor
-  - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
-  - Technique: 
-    - AVFoundation: Camera
 
-### My Side Projects:
+6. <img src="images/godofwealth_icon.png" id="god-of-wealth-icon" alt="Logo" width="30" height="30"> [God of Wealth](#god-of-wealth)
+  - Role: Maintainer
+    - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
+    - Technique:
+    - GraphQL
+    - Skeleton
+  
+
+
+### 👻 My Side Projects:
 1. <img src="images/accountantRabbit_icon.png" id="accountant-rabbit-icon" alt="Logo" width="30" height="30"> [Accountan Rabbit](#accountant-rabbit)
   - [Demo Video](https://drive.google.com/file/d/1fRSM1woMzidByCOn2qTZEWiQyyJZ1HZU/view)
   - Technique：
@@ -61,10 +64,13 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 2. <img src="images/oralKeeping_icon.png" id="oral-keeping-icon" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️in process...>
   - Technique：
     - Speech
+    - SiriKit
     - Machine Learning
+<!-- Agenda End -->
 
-## Apps I Worked on
+## Detailed Information
 
+<!-- 搜梗鍵盤 info start -->
 <img src="images/deco/memeKeyboard_banner.png" id="meme-keyboard" max-height="40" max-width="484">
 
 - Chinese name： 搜梗鍵盤
@@ -74,7 +80,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#sogan-icon">Back to Agenda</a>
 </div>
+<!-- 搜梗鍵盤 info end -->
 
+<!-- 斷食鬧鐘 info start -->
 <img src="images/deco/fasting_banner.png" id="fasting-alarm" max-height="40" max-width="484">
 
 - Chinese name： 斷食鬧鐘
@@ -83,7 +91,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#fasting-icon">Back to Agenda</a>
 </div>
+<!-- 斷食鬧鐘 info end -->
 
+<!-- 咻拍 info start -->
 <img src="images/deco/photoWidget_banner.png" id="photo-widget" max-height="40" max-width="484">
 
 - Chinese name： 咻拍
@@ -93,18 +103,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#showpop-icon">Back to Agenda</a>
 </div>
-  
-<img src="images/deco/godOfWealth_banner.png" id="god-of-wealth" max-height="40" max-width="484">
+<!-- 咻拍 info end -->
 
-- Chinese name: 武財神 
-- The app, GodOfWealth, aims to connect users with local temples and facilitate spiritual activities. Users can seek divine guidance through fortune-telling, virtually worship deities, make prayers, and access an lunar calendar. A portion of the proceeds from the app is donated to charitable organizations. Embrace the synergy of technology and spirituality for a convenient and meaningful divine connection.
-- Techniques:
-- [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
-
-<div align="right">
-  <a href="#god-of-wealth-icon">Back to Agenda</a>
-</div>
-
+<!-- 必拍 info start -->
 <img src="images/deco/poseCamera_banner.png" id="pose-camera" max-height="40" max-width="484">
 
 - Chinese name： 必拍
@@ -114,6 +115,19 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#pose-camera-icon">Back to Agenda</a>
 </div>
+<!-- 必拍 info end -->
+  
+<!-- 武財神 info start -->
+<img src="images/deco/godOfWealth_banner.png" id="god-of-wealth" max-height="40" max-width="484">
+
+- Chinese name: 武財神 
+- The app, GodOfWealth, aims to connect users with local temples and facilitate spiritual activities. Users can seek divine guidance through fortune-telling, virtually worship deities, make prayers, and access an lunar calendar. A portion of the proceeds from the app is donated to charitable organizations. Embrace the synergy of technology and spirituality for a convenient and meaningful divine connection.
+- Techniques:
+- [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
+<div align="right">
+  <a href="#god-of-wealth-icon">Back to Agenda</a>
+</div>
+<!-- 武財神 info end -->
 
 <!-- This app had been suspended due to the heavy loading on server :(
 <img src="images/deco/rentRadar_banner.png" id="rent-radar" max-height="40" max-width="484">
@@ -124,12 +138,9 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - [View on AppStore](https://apps.apple.com/tw/app/租屋雷達-租房就是快-含fb社團-租屋網租屋/id1557423528)
 <div align="right">
   <a href="#rent-radar-icon">Back to Agenda</a>
-</div>
+</div> -->
 
- -->
-
-## Side Projects
-
+<!-- 會計小兔 info start -->
 <img src="images/deco/accountantRabbit_banner.png" id="accountant-rabbit" max-height="40" max-width="484">
 
 - Chinese name: 會計小兔
@@ -142,17 +153,21 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 <div align="right">
   <a href="#accountant-rabbit-icon">Back to Agenda</a>
 </div>
+<!-- 會計小兔 info end -->
 
+<!-- 口說記帳 info start -->
 <img src="images/deco/oralKeeping_banner.png" id="oral-keeping" max-height="40" max-width="484">
 
 - Chinese name: 口說記帳
 <div align="right">
   <a href="#oral-keeping-icon">Back to Agenda</a>
 </div>
+<!-- 口說記帳 info end -->
 
 ###### btw, these side project icons were designed by myself 💕
 
-# 
+
+# Ending
 #### 🎉 Congratulations on reaching the end of my portfolio ! Your persistence deserves a standing ovation.👏🏼  
 If my portfolio managed to bring a smile to your face 😆, imagine the positive vibes I can bring to your team. Let's connect and discuss how we can create magic together 👉🏼 [![Linkedin Badge](https://img.shields.io/badge/-Ria_(chih_yin)_Yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ria-chihyin-yang/)](https://www.linkedin.com/in/ria-chihyin-yang/)  
 
