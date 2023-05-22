@@ -11,35 +11,53 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   - Technique:
     - GraphQL: for online forum
     - Skeleton: for waiting 
+    
 * <img src="images/rentRadar_icon.png" width="30" height="30">  [Rent Radar](#rent-radar)
   - [View on AppStore](https://apps.apple.com/tw/app/租屋雷達-租房就是快-含fb社團-租屋網租屋/id1557423528)
-  - Technique：
+  - Technique: 
  
 * <img src="images/sogan_icon.png" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
   - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
   - Technique：
-    - ShareExtension:
-    - Image 處理： 
+    - Share Extension:
+    - Keyboard Extension:
+    - Canvas繪圖
   
 * <img src="images/poseCamera_icon.png" alt="Logo" width="30" height="30">  [Pose Camera](#pose-camera)
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
-  - Technique：
+  - Technique: 
+    - AVFoundation: 
+    - UIGesture:
+    - CIFilter: 
   
 * <img src="images/showpop_icon.png" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
   - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
-  - Technique：
+  - Technique: 
+    - AVFoundation: Camera
   
 * <img src="images/fasting_icon.png" alt="Logo" width="30" height="30">  [Fasting Alarm](#fasting-alarm)
   - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
-  - Technique：
+  - Technique: 
+    - SwiftUI: Widget, Live Activity
+
+* // 測測吧！！！
+  - Technique:
+    - Audio
+    - 地圖路線
 
 ### My Side Projects:
 * <img src="images/accountantRabbit_icon.png" alt="Logo" width="30" height="30"> [Accountan Rabbit](#accountant-rabbit)
   - [Demo Video](https://drive.google.com/file/d/1fRSM1woMzidByCOn2qTZEWiQyyJZ1HZU/view)
   - Technique：
+    - JavaScript
+    - Regular expressions
+    - Google Apps Script
+    - LINE APIs
   
 * <img src="images/oralKeeping_icon.png" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️in process...>
   - Technique：
+    - Speech
+    - Machine Learning
 
 ## Apps I Worked on
 
