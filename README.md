@@ -31,19 +31,18 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
     - AVFoundation(Audio)
     - CAShapeLayer + CABasicAnimation
 
-4. <img src="images/showpop_icon.png" id="showpop-icon" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
-  - Role: Contributor
-  - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
-  - Technique: 
-    - AVFoundation(Camera)
-
-5. <img src="images/poseCamera_icon.png" id="pose-camera-icon" alt="Logo" width="30" height="30">  [Pose Camera](#pose-camera)
+4. <img src="images/poseCamera_icon.png" id="pose-camera-icon" alt="Logo" width="30" height="30">  [Pose Camera](#pose-camera)
   - Role: Creator
   - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
   - Technique: 
     - AVFoundation(Camera)
-    - UIGesture
     - CIFilter 
+
+5. <img src="images/showpop_icon.png" id="showpop-icon" alt="Logo" width="30" height="30">  [Photo Widget](#photo-widget)
+  - Role: Contributor
+  - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
+  - Technique: 
+    - AVFoundation(Camera)
 
 6. <img src="images/godofwealth_icon.png" id="god-of-wealth-icon" alt="Logo" width="30" height="30"> [God of Wealth](#god-of-wealth)
   - Role: Maintainer
@@ -150,20 +149,6 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 
 <br/><br/>
 
-<!-- 咻拍 info start -->
-<img src="images/deco/photoWidget_banner.png" id="photo-widget" max-height="40" max-width="484">
-
-- **Chinese name**: 咻拍
-- **Overview**: This app features a convenient home screen widget that displays the latest photos of your friends, ensuring you stay effortlessly connected with their updates. With this widget, you can effortlessly keep track of your friends' photo updates without the need to open the app. It provides a seamless and efficient way to stay in touch with your friends' visual journey, right from your device's home screen.
-- **Technique**:
-- [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
-<div align="right">
-  <a href="#showpop-icon">⬆️ Back to Overview</a>
-</div>
-<!-- 咻拍 info end -->
-
-<br/><br/>
-
 <!-- 必拍 info start -->
 <img src="images/deco/poseCamera_banner.png" id="pose-camera" max-height="40" max-width="484">
 
@@ -171,13 +156,36 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 - **Overview**: Strike the perfect pose with our app! Say goodbye to awkwardness and hello to confidence. Our collection of perfect poses will have you capturing unforgettable moments with ease. Join our community of photography enthusiasts and let the fun begin!
 - **Technique**:
     - AVFoundation(Camera)
-    - UIGesture
-    - CIFilter 
+    - CIFilter  
+     ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1aWOdGqpilGJoK_v5ZhTovml89qBGrvu_/view?usp=sharing) to watch the video on google drive._
+     
+     <img src="images/gif/knowledgeKing/poseCamera.gif" width="250"/>
+     
 - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
 <div align="right">
   <a href="#pose-camera-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 必拍 info end -->
+
+<br/><br/>
+
+<!-- 咻拍 info start -->
+<img src="images/deco/photoWidget_banner.png" id="photo-widget" max-height="40" max-width="484">
+
+- **Chinese name**: 咻拍
+- **Overview**: This app features a convenient home screen widget that displays the latest photos of your friends, ensuring you stay effortlessly connected with their updates. With this widget, you can effortlessly keep track of your friends' photo updates without the need to open the app. It provides a seamless and efficient way to stay in touch with your friends' visual journey, right from your device's home screen.
+- **Technique**:
+  - AVFoundation(Camera)  
+  
+    <img src="images/showpop.PNG" width="250"/>
+  
+  - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
+<div align="right">
+  <a href="#showpop-icon">⬆️ Back to Overview</a>
+</div>
+<!-- 咻拍 info end -->
+
+
 
 <br/><br/>
   
