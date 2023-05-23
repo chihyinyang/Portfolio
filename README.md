@@ -157,9 +157,9 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 - **Technique**:
     - AVFoundation(Camera)
     - CIFilter  
-     ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1aWOdGqpilGJoK_v5ZhTovml89qBGrvu_/view?usp=sharing) to watch the video on google drive._
+     ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1tJbpMbTA47qsOVKppTpT5WwlzhT7JEh0/view?usp=sharing) to watch the video on google drive._
      
-     <img src="images/gif/knowledgeKing/poseCamera.gif" width="250"/>
+     <img src="images/gif/poseCamera/poseCamera.gif" width="250"/>
      
 - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
 <div align="right">
