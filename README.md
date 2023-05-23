@@ -54,7 +54,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 
 
 ### 👻 My Side Projects:
-1. <img src="images/accountantRabbit_icon.png" id="accountant-rabbit-icon" alt="Logo" width="30" height="30"> [Accountan Rabbit](#accountant-rabbit)
+1. <img src="images/accountantRabbit_icon.png" id="accountant-rabbit-icon" alt="Logo" width="30" height="30"> [Accountant Rabbit](#accountant-rabbit)
   - [Demo Video](https://drive.google.com/file/d/1fRSM1woMzidByCOn2qTZEWiQyyJZ1HZU/view)
   - Technique：
     - JavaScript
@@ -66,7 +66,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   - Technique：
     - Speech
     - SiriKit
-    - Machine Learning
+    - Machine Learning Kit
 <!-- Agenda End -->
 
 ## Detailed Information
@@ -82,7 +82,11 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     
     <img src="images/gif/memekeyboard/shareExtension.gif" width="250"/>
   
-  - Keyboard Extension: With this functionality, users can instantly save memes directly from the keyboard and easily share them with friends through the copy and paste method.
+  - **Keyboard Extension**: With this functionality, users can search the newest meme on the Meme Keboard instantly, and easily share them with friends through the copy and paste method.  
+  ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1JEk9c8jBWplKtw-eUihhujrVEpYphwAY/view?usp=sharing) to watch the video on google drive._
+  
+  <img src="images/gif/memekeyboard/keyboardExtension.gif" width="250"/>
+  - Keyboard Extension: With this functionality, users can search the newest meme on the Meme Keboard instantly, and easily share them with friends through the copy and paste method.  
   
   - GCContext
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
