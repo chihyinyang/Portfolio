@@ -106,8 +106,17 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Chinese name**: 斷食鬧鐘
 - **Overview**: Introducing the Fasting Alarm Clock app for a healthy and disciplined lifestyle. Select your fasting mode, receive reminders, and track progress. Stay on track with alarms and an adorable penguin companion. Achieve your fasting goals effortlessly.
 - **Technique**:
-    - SwiftUI(Widget, Live Activity)
-    - Unit Test
+    - **SwiftUI**:  
+      - Live Activity
+      <img src="images/fasting_liveActivity_01.png" width="250"/>
+      <img src="images/fasting_liveActivity_02.png" width="250"/>  
+      
+      - Widget
+      <img src="images/fasting_widget_01.png" width="250"/>
+      <img src="images/fasting_widget_02.png" width="250"/>  
+      
+    - **Unit Test**: This app allows users to set their fasting schedules, such as the days of the week and specific fasting hours. We need to assess the user's fasting status based on this information. I have implemented various test scenarios using the _**Decorator pattern**_ to cover different cases, and I have also conducted _**unit tests**_ to verify the correctness of my logic.
+    
 - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
 <div align="right">
   <a href="#fasting-icon">⬆️ Back to Agenda</a>
