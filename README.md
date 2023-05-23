@@ -87,7 +87,11 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
   
     <img src="images/gif/memekeyboard/keyboardExtension.gif" width="250"/>
   
-  - **GCContext**: 
+  - **GCContext**: I utilize CGContext for drawing text avatars, applying round corner masks to photo avatars, and merging the avatars with photos.  
+    ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1v0oxjX4xeM-ug7pxOwVsb-4zyAAOXwjF/view?usp=sharing) to watch the video on google drive._
+    
+    <img src="images/gif/memekeyboard/CGContext.gif" width="250"/>
+    
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
 <div align="right">
   <a href="#sogan-icon">⬆️ Back to Agenda</a>
