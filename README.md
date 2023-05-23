@@ -132,12 +132,12 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Overview**: This is a knowledge-based trivia game app that gamifies the experience of challenging and competing against virtual opponents. Users can engage with various domains of knowledge while facing off against challenging "bosses." The app also allows users to create and share their own questions, enabling friendly competitions to determine who possesses the greatest expertise.
 - **Technique**:
     - **AVFoundation(Audio)**:  
-      ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1aWOdGqpilGJoK_v5ZhTovml89qBGrvu_/view?usp=sharing) to watch the video on google drive._
+      ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1aWOdGqpilGJoK_v5ZhTovml89qBGrvu_/view?usp=sharing) to watch the video(with music) on google drive._
       
       <img src="images/gif/knowledgeKing/AVFoundation.gif" width="250"/>
       
     - **CAShapeLayer + CABasicAnimation**:
-      ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1e6XSju4YCit32jtoQrvRIMdZ1SQJ9UYL/view?usp=sharing) to watch the video on google drive._
+      ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1e6XSju4YCit32jtoQrvRIMdZ1SQJ9UYL/view?usp=sharing) to watch the video(with music) on google drive._
       
       <img src="images/gif/knowledgeKing/CABasicAnimation.gif" width="250"/>
     
