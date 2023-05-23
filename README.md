@@ -10,6 +10,7 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 
 1. <img src="images/sogan_icon.png" id="sogan-icon" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
   - Role: Creator & Idea Provider
+  - Ranked 7th on the Tools leaderboard 👑
   - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
   - Technique：
     - Share Extension
