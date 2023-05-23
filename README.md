@@ -1,11 +1,11 @@
 # Portfolio
 👋🏻 Hi there, welcome to my _**portfolio**_ ✨!  
-Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my professional adventures**_ and some super intriguing _**side projects**_. So sit back, relax, and soak in all the awesomeness that's coming your way! Enjoy!
+Get ready to dive into a mix of cool apps that I've _**crafted during my professional adventures**_ and some super intriguing _**side projects**_. So sit back, relax, and soak in all the awesomeness that's coming your way! Enjoy!
 ###### 🫶🏻 Just a friendly reminder, all text in blue is linked!
 
-<!-- Agenda Start -->
-## Agenda （ 6 apps + 2 side projects ）
-### 👩🏻‍💻 Apps I Worked on：
+<!-- Overview Start -->
+## Overview（ 6 apps + 2 side projects ）
+### 👩🏻‍💻 Apps I have worked on：
 ###### 👇🏼Click on the name to view more detailed information below.
 
 1. <img src="images/sogan_icon.png" id="sogan-icon" alt="Logo" width="30" height="30">  [Meme Keyboard](#meme-keyboard)
@@ -67,7 +67,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - Speech
     - SiriKit
     - Machine Learning Kit
-<!-- Agenda End -->
+<!-- Overview End -->
 
 ## Detailed Information
 
@@ -94,7 +94,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
 <div align="right">
-  <a href="#sogan-icon">⬆️ Back to Agenda</a>
+  <a href="#sogan-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 搜梗鍵盤 info end -->
 
@@ -119,7 +119,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     
 - [View on AppStore](https://apps.apple.com/tw/app/168斷食鬧鐘/id6444712791)
 <div align="right">
-  <a href="#fasting-icon">⬆️ Back to Agenda</a>
+  <a href="#fasting-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 斷食鬧鐘 info end -->
 
@@ -143,7 +143,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     
 - [View on AppStore](https://apps.apple.com/cy/app/測測吧/id1641409607)
 <div align="right">
-  <a href="#knowledge-king-icon">⬆️ Back to Agenda</a>
+  <a href="#knowledge-king-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 測測吧 info end -->
 
@@ -157,7 +157,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Technique**:
 - [View on AppStore](https://apps.apple.com/th/app/咻拍-情侶-朋友-閨蜜必備的社交widget-app/id1606833799)
 <div align="right">
-  <a href="#showpop-icon">⬆️ Back to Agenda</a>
+  <a href="#showpop-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 咻拍 info end -->
 
@@ -174,7 +174,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - CIFilter 
 - [View on AppStore](https://apps.apple.com/tw/app/必拍-姿勢照相機/id1606833478)
 <div align="right">
-  <a href="#pose-camera-icon">⬆️ Back to Agenda</a>
+  <a href="#pose-camera-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 必拍 info end -->
 
@@ -190,7 +190,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     - Skeleton
 - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
 <div align="right">
-  <a href="#god-of-wealth-icon">⬆️ Back to Agenda</a>
+  <a href="#god-of-wealth-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 武財神 info end -->
 
@@ -204,7 +204,7 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
 - **Technique**:
 - [View on AppStore](https://apps.apple.com/tw/app/租屋雷達-租房就是快-含fb社團-租屋網租屋/id1557423528)
 <div align="right">
-  <a href="#rent-radar-icon">Back to Agenda</a>
+  <a href="#rent-radar-icon">Back to Overview</a>
 </div> -->
 
 <!-- 會計小兔 info start -->
@@ -221,7 +221,7 @@ I share an flat with a roommate, and we frequently go grocery shopping together 
   - Platform: Google Apps Script
   - Webhook: Establish the connection between the LINE server and Google Sheets.
 <div align="right">
-  <a href="#accountant-rabbit-icon">⬆️ Back to Agenda</a>
+  <a href="#accountant-rabbit-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 會計小兔 info end -->
 
@@ -239,7 +239,7 @@ Simply open your phone and describe your expenses to Siri. Through speech recogn
     - Siri Kit (working on...)
     - Apple Machine Learning Kit (working on...)
 <div align="right">
-  <a href="#oral-keeping-icon">⬆️ Back to Agenda</a>
+  <a href="#oral-keeping-icon">⬆️ Back to Overview</a>
 </div>
 <!-- 口說記帳 info end -->
 
