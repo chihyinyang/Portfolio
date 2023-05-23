@@ -83,12 +83,11 @@ Get ready to dive into a mix of mind-blowing apps that I've _**crafted during my
     <img src="images/gif/memekeyboard/shareExtension.gif" width="250"/>
   
   - **Keyboard Extension**: With this functionality, users can search the newest meme on the Meme Keboard instantly, and easily share them with friends through the copy and paste method.  
-  ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1JEk9c8jBWplKtw-eUihhujrVEpYphwAY/view?usp=sharing) to watch the video on google drive._
+    ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1JEk9c8jBWplKtw-eUihhujrVEpYphwAY/view?usp=sharing) to watch the video on google drive._
   
-  <img src="images/gif/memekeyboard/keyboardExtension.gif" width="250"/>
-  - Keyboard Extension: With this functionality, users can search the newest meme on the Meme Keboard instantly, and easily share them with friends through the copy and paste method.  
+    <img src="images/gif/memekeyboard/keyboardExtension.gif" width="250"/>
   
-  - GCContext
+  - **GCContext**: 
 - [View on AppStore](https://apps.apple.com/tw/app/搜梗-meme梗圖鍵盤/id1611675156)
 <div align="right">
   <a href="#sogan-icon">⬆️ Back to Agenda</a>
