@@ -247,7 +247,7 @@ Simply open your phone and describe your expenses to Siri. Through speech recogn
 
 
 # Ending
-#### 🎉 Congratulations on reaching the end of my portfolio ! Your persistence deserves a standing ovation.👏🏼  
+#### 🎉 Congratulations on reaching the end of my portfolio !
 If my portfolio managed to bring a smile to your face 😆, imagine the positive vibes I can bring to your team. Let's connect and discuss how we can create magic together 👉🏼 [![Linkedin Badge](https://img.shields.io/badge/-Ria_(chih_yin)_Yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ria-chihyin-yang/)](https://www.linkedin.com/in/ria-chihyin-yang/)  
 
 🙌🏼 Farewell for now, but not goodbye!
