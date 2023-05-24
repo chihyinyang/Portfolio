@@ -225,7 +225,7 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 - **Overview**: Accountant Rabbit, a LINE chatbot, records daily spending on Google Sheets via text input.
 - **Inspiration**: 
 I share an flat with a roommate, and we frequently go grocery shopping together and cook meals or dine out as a team. However, keeping track of our expenses and settling bills has become a hassle. Since we both use LINE as our primary messaging platform, I thought of leveraging its functionality to streamline the process. My idea is to develop a Line-based solution where we can instantly log our expenses after each purchase, and conveniently access our transaction history using Google Sheets. This way, we can effortlessly manage and track our shared expenses.
-- [Demo Video](https://drive.google.com/file/d/1fRSM1woMzidByCOn2qTZEWiQyyJZ1HZU/view)
+- [Demo Video](https://drive.google.com/file/d/1bLeVHpjQG409wCUPCbt3ISDeZqTi2UtF/view?usp=sharing)
 - **Technique**:
   - Language: JavaScript
   - Regular expressions: Filtered spending amounts using regular expressions and recorded remaining text as notes.
