@@ -252,7 +252,7 @@ Simply open your phone and describe your expenses to Siri. Through speech recogn
 - **Technique**:
     - Speech ✅
     - Siri (working on...)
-    - Apple Machine Learning Kit (working on...)
+    - Apple Machine Learning (working on...)
 <div align="right">
   <a href="#oral-keeping-icon">⬆️ Back to Overview</a>
 </div>
