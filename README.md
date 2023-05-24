@@ -231,6 +231,11 @@ I share an flat with a roommate, and we frequently go grocery shopping together 
   - Regular expressions: Filtered spending amounts using regular expressions and recorded remaining text as notes.
   - Platform: Google Apps Script
   - Webhook: Establish the connection between the LINE server and Google Sheets.
+
+   ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1-3GpWkBMeSwOgLXrbK7YEpkgam0IUAnw/view?usp=sharing) to watch the video on google drive._  
+   
+   <img src="images/gif/accountantRabbit/accountantRabbit_DemoVideo.gif" width="250"/>
+   
 <div align="right">
   <a href="#accountant-rabbit-icon">⬆️ Back to Overview</a>
 </div>
