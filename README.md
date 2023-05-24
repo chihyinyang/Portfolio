@@ -65,8 +65,8 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 2. <img src="images/oralKeeping_icon.png" id="oral-keeping-icon" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️in process...>
   - Technique：
     - Speech
-    - SiriKit
-    - Machine Learning Kit
+    - Siri
+    - Machine Learning
 <!-- Overview End -->
 
 ## Detailed Information
@@ -251,7 +251,7 @@ Simply open your phone and describe your expenses to Siri. Through speech recogn
 - **Inspiration**: Managing personal finances has always been a struggle for me since I started earning money. Despite my best efforts, I have failed to establish a consistent habit of tracking my expenses. That's why I have made the decision to create a tool that eliminates any excuses for not keeping up with my finances. With this tool, I am determined to put an end to my previous failures in expense tracking.
 - **Technique**:
     - Speech ✅
-    - Siri Kit (working on...)
+    - Siri (working on...)
     - Apple Machine Learning Kit (working on...)
 <div align="right">
   <a href="#oral-keeping-icon">⬆️ Back to Overview</a>
