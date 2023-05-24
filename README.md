@@ -234,7 +234,7 @@ I share an flat with a roommate, and we frequently go grocery shopping together 
 
    ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1-3GpWkBMeSwOgLXrbK7YEpkgam0IUAnw/view?usp=sharing) to watch the video on google drive._  
    
-   <img src="images/gif/accountantRabbit/accountantRabbit_DemoVideo.gif" width="250"/>
+   <img src="images/gif/accountantRabbit/accountantRabbit_DemoVideo.gif" width="800"/>
    
 <div align="right">
   <a href="#accountant-rabbit-icon">⬆️ Back to Overview</a>
