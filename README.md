@@ -185,8 +185,6 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 </div>
 <!-- 咻拍 info end -->
 
-
-
 <br/><br/>
   
 <!-- 武財神 info start -->
@@ -195,8 +193,12 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
 - **Chinese name**: 武財神 
 - **Overview**: The app, GodOfWealth, aims to connect users with local temples and facilitate spiritual activities. Users can seek divine guidance through fortune-telling, virtually worship deities, make prayers, and access an lunar calendar. A portion of the proceeds from the app is donated to charitable organizations. Embrace the synergy of technology and spirituality for a convenient and meaningful divine connection.
 - **Techniques**:
-    - GraphQL
-    - Skeleton
+    - **GraphQL**: Integrated a GraphQL API for a discussion forum using Apollo.
+    - **Skeleton**: Utilized Skeleton Views to enhance user experience.   
+      ###### _View the demo GIF below or click [here](https://drive.google.com/file/d/1-3GpWkBMeSwOgLXrbK7YEpkgam0IUAnw/view?usp=sharing) to watch the video on google drive._  
+      
+      <img src="images/gif/godOfWealth/skeleton.gif" width="250"/>
+    
 - [View on AppStore](https://apps.apple.com/tw/app/武財神-求好運免出門/id1477019338)
 <div align="right">
   <a href="#god-of-wealth-icon">⬆️ Back to Overview</a>
