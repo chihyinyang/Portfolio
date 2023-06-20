@@ -62,7 +62,7 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
     - Google Apps Script
     - LINE APIs
   
-2. <img src="images/oralKeeping_icon.png" id="oral-keeping-icon" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️in process...>
+2. <img src="images/oralKeeping_icon.png" id="oral-keeping-icon" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️work in progress...>
   - Technique：
     - Speech
     - Siri
