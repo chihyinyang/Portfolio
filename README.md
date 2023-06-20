@@ -247,7 +247,7 @@ I share an flat with a roommate, and we frequently go grocery shopping together 
 
 - **Chinese name**: 口說記帳
 - **Overview**: 
-Simply open your phone and describe your expenses to Siri. Through speech recognition, Siri converts your spoken words into text and uses AI to extract details such as time, location, itemized expenses, and amounts. All this information is seamlessly recorded in your phone, allowing for effortless expense tracking and budgeting.
+Simply open your phone and describe your expenses to Siri. Through speech recognition, Siri converts your spoken words into text and uses ML to extract details such as time, location, itemized expenses, and amounts. All this information is seamlessly recorded in your phone, allowing for effortless expense tracking and budgeting.
 - **Inspiration**: Managing personal finances has always been a struggle for me since I started earning money. Despite my best efforts, I have failed to establish a consistent habit of tracking my expenses. That's why I have made the decision to create a tool that eliminates any excuses for not keeping up with my finances. With this tool, I am determined to put an end to my previous failures in expense tracking.
 - **Technique**:
     - Speech ✅
