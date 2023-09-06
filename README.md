@@ -61,12 +61,6 @@ Get ready to dive into a mix of cool apps that I've _**crafted during my profess
     - Regular expressions
     - Google Apps Script
     - LINE APIs
-  
-2. <img src="images/oralKeeping_icon.png" id="oral-keeping-icon" alt="Logo" width="30" height="30"> [Oral Keeping](#oral-keeping) <🏃🏻‍♀️work in progress...>
-  - Technique：
-    - Speech
-    - Siri
-    - Machine Learning
 <!-- Overview End -->
 
 ## Detailed Information
@@ -243,6 +237,7 @@ I share an flat with a roommate, and we frequently go grocery shopping together 
 <br/><br/>
 
 <!-- 口說記帳 info start -->
+<!--
 <img src="images/deco/oralKeeping_banner.png" id="oral-keeping" max-height="40" max-width="484">
 
 - **Chinese name**: 口說記帳
@@ -256,6 +251,7 @@ Simply open your phone and describe your expenses to Siri. Through speech recogn
 <div align="right">
   <a href="#oral-keeping-icon">⬆️ Back to Overview</a>
 </div>
+-->
 <!-- 口說記帳 info end -->
 
 ###### btw, these side project icons were designed by myself 💕
